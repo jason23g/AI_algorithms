@@ -1,0 +1,126 @@
+<Source>Hrakleio</Source>
+<Destination>Giannena</Destination>
+<Roads>
+Xania-Athina; Xania; Athina; 12
+Xania-Patra; Xania; Patra; 20
+Patra-Hrakleio; Patra; Hrakleio; 5
+Athina-Hrakleio; Athina; Hrakleio; 10
+Athina-Kavala; Athina; Kavala; 7
+Patra-Kavala; Patra; Kavala; 13
+Kavala-Thraki; Kavala; Thraki; 30
+Hrakleio-Thraki; Hrakleio; Thraki; 20
+Kavala-Hrakleio; Kavala; Hrakleio; 7
+Kavala-Bolos; Kavala; Bolos; 10
+Thraki-Bolos; Thraki; Bolos; 3
+Hrakleio-Bolos; Hrakleio; Bolos; 1
+Bolos-Giannena; Bolos; Giannena; 4
+Kavala-Giannena; Kavala; Giannena; 1
+Giannena-Nea_smyrni; Giannena; Nea_smyrni; 1
+Bolos-Nea_smyrni; Bolos; Nea_smyrni; 15
+Giannena-Arta; Giannena; Arta; 12
+Giannena-Messologi; Giannena; Messologi; 4
+Messologi-Giannena; Messologi; Giannena; 11
+Arta-Messologi; Arta; Messologi; 2
+Giannena-Aigaleo; Giannena; Aigaleo; 40
+Messologi-Aigaleo; Messologi; Aigaleo; 3
+</Roads>
+<Predictions>
+<Day>
+Xania-Athina; normal
+Xania-Patra; heavy
+Patra-Hrakleio; normal
+Athina-Hrakleio; low
+Athina-Kavala; normal
+Patra-Kavala; heavy
+Kavala-Thraki; normal
+Hrakleio-Thraki; low
+Kavala-Hrakleio; normal
+Kavala-Bolos; heavy
+Thraki-Bolos; normal
+Hrakleio-Bolos; heavy
+Bolos-Giannena; normal
+Kavala-Giannena; heavy
+Giannena-Nea_smyrni; normal
+Bolos-Nea_smyrni; low
+Giannena-Arta; low
+Giannena-Messologi; heavy
+Messologi-Giannena; low
+Arta-Messologi; Arta; low
+Giannena-Aigaleo; low
+Messologi-Aigaleo; heavy
+</Day>
+<Day>
+Xania-Athina; normal
+Xania-Patra; heavy
+Patra-Hrakleio; normal
+Athina-Hrakleio; low
+Athina-Kavala; normal
+Patra-Kavala; heavy
+Kavala-Thraki; normal
+Hrakleio-Thraki; low
+Kavala-Hrakleio; normal
+Kavala-Bolos; heavy
+Thraki-Bolos; normal
+Hrakleio-Bolos; heavy
+Bolos-Giannena; normal
+Kavala-Giannena; heavy
+Giannena-Nea_smyrni; normal
+Bolos-Nea_smyrni; low
+Giannena-Arta; low
+Giannena-Messologi; heavy
+Messologi-Giannena; low
+Arta-Messologi; Arta; low
+Giannena-Aigaleo; low
+Messologi-Aigaleo; heavy
+</Day>
+</Predictions>
+<ActualTrafficPerDay>
+<Day>
+Xania-Athina; normal
+Xania-Patra; heavy
+Patra-Hrakleio; normal
+Athina-Hrakleio; low
+Athina-Kavala; normal
+Patra-Kavala; heavy
+Kavala-Thraki; normal
+Hrakleio-Thraki; low
+Kavala-Hrakleio; normal
+Kavala-Bolos; normal
+Thraki-Bolos; normal
+Hrakleio-Bolos; normal
+Bolos-Giannena; normal
+Kavala-Giannena; normal
+Giannena-Nea_smyrni; normal
+Bolos-Nea_smyrni; normal
+Giannena-Arta; normal
+Giannena-Messologi; normal
+Messologi-Giannena; low
+Arta-Messologi; Arta; normal
+Giannena-Aigaleo; normal
+Messologi-Aigaleo; normal
+</Day>
+<Day>
+Xania-Athina; normal
+Xania-Patra; normal
+Patra-Hrakleio; normal
+Athina-Hrakleio; normal
+Athina-Kavala; normal
+Patra-Kavala; normal
+Kavala-Thraki; normal
+Hrakleio-Thraki; normal
+Kavala-Hrakleio; normal
+Kavala-Bolos; normal
+Thraki-Bolos; normal
+Hrakleio-Bolos; normal
+Bolos-Giannena; normal
+Kavala-Giannena; normal
+Giannena-Nea_smyrni; normal
+Bolos-Nea_smyrni; normal
+Giannena-Arta; normal
+Giannena-Messologi; normal
+Messologi-Giannena; low
+Arta-Messologi; Arta; normal
+Giannena-Aigaleo; normal
+Messologi-Aigaleo; normal
+</Day>
+</ActualTrafficPerDay>
